@@ -1,0 +1,14 @@
+python-dotenv
+streamlit
+openai
+fastapi
+uvicorn
+transformers
+torch
+groq
+mistralai
+soundfile
+pillow
+requests
+pandas
+python-multipart
